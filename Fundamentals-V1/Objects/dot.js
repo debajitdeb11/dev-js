@@ -1,3 +1,4 @@
+// jshint esversion: 8
 const {sleep} = require("../Functions/sleep");
 
 let person = {

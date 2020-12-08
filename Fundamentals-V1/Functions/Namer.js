@@ -10,9 +10,10 @@ delayLogger(name.split(' ')[1],2000);
 
 
 let a = new Map();
+
 a.set("a", 1);
-a.set("b", 2)
-a.set("c", 3)
-a.set("d", 4)
-a.set("e", 5)
+a.set("b", 2);
+a.set("c", 3);
+a.set("d", 4);
+a.set("e", 5);
 logger(a);
